@@ -1,5 +1,5 @@
 
-public class Mathtest {
+public class Problem5 {
 
 	/**
 	 * @param args
