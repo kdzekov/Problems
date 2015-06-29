@@ -1,6 +1,6 @@
 # Problems
 
-This repository contains my personal Java solutions of some common programming problems.
+This repository contains my personal Java solutions for some common programming problems.
 
 Problem5.java is a solution of the common developer's problem described as:
 "Write a program that outputs all possibilities to put + or - or nothing between the numbers 1, 2, ..., 9 
